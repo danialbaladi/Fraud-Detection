@@ -51,3 +51,7 @@ Data/featured/
 Data/cleaned/
 Data/processed/
 
+# Model folders
+Models/
+*.pkl
+*.joblib
