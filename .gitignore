@@ -44,4 +44,10 @@ __pypackages__/
 reports/figures/
 reports/*.html
 reports/*.pdf
+# Data files
+Data/raw/
+Data/splits/
+Data/featured/
+Data/cleaned/
+Data/processed/
 
